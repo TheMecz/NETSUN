@@ -1,0 +1,106 @@
+[
+    {
+        "alpha_two_code": "PE",
+        "domains":["champagnat.edu.pe"],
+        "country": "Peru",
+        "state-province": null,
+        "web_pages": ["http://www.champagnat.edu.pe/"],
+        "name": "Universidad Marcelino Champagnat"
+    },
+    {
+        "alpha_two_code": "PE",
+        "domains":["lamolina.edu.pe"],
+        "country": "Peru",
+        "state-province": null,
+        "web_pages": ["http://www.lamolina.edu.pe/"],
+        "name": "Universidad Nacional Agraria La Molina"
+    },
+    {
+        "alpha_two_code": "PE",
+        "domains":["pucp.edu.pe"],
+        "country": "Peru",
+        "state-province": null,
+        "web_pages": ["http://www.pucp.edu.pe/"],
+        "name": "Pontificia Universidad Cat\u00f3lica del Per\u00fa"
+    },
+    {
+        "alpha_two_code": "PE",
+        "domains":["champagnat.edu.pe"],
+        "country": "Peru",
+        "state-province": null,
+        "web_pages": ["http://www.champagnat.edu.pe/"],
+        "name": "Universidad Marcelino Champagnat"
+    },
+    {
+        "alpha_two_code": "PE",
+        "domains":["sil.edu.pe"],
+        "country": "Peru",
+        "state-province": null,
+        "web_pages": ["http://www.sil.edu.pe/"],
+        "name": "Universidad San Ignacio de Loyola"
+    },
+    {
+        "alpha_two_code": "PE",
+        "domains":["udep.edu.pe"],
+        "country": "Peru",
+        "state-province": null,
+        "web_pages": ["http://www.udep.edu.pe/"],
+        "name": "Universidad de Piura"
+    },
+    {
+        "alpha_two_code": "PE",
+        "domains":["uch.edu.pe"],
+        "country": "Peru",
+        "state-province": null,
+        "web_pages": ["http://www.uch.edu.pe/"],
+        "name": "Universidad de Ciencias y Humanidades"
+    },
+    {
+        "alpha_two_code": "PE",
+        "domains":["ucsur.edu.pe"],
+        "country": "Peru",
+        "state-province": null,
+        "web_pages": ["http://www.usur.edu.pe/"],
+        "name": "Universidad Cientifica del Sur"
+    },
+    {
+        "alpha_two_code": "PE",
+        "domains":["ucv.edu.pe"],
+        "country": "Peru",
+        "state-province": null,
+        "web_pages": ["http://www.ucv.edu.pe/"],
+        "name": "Universidad C\u00e9sar Vallejo"
+    },
+    {
+        "alpha_two_code": "PE",
+        "domains":["utea.edu.pe"],
+        "country": "Peru",
+        "state-province": null,
+        "web_pages": ["http://www.utea.edu.pe/"],
+        "name": "Universidad Tecnol\u003fgica del Peru"
+    },
+    {
+        "alpha_two_code": "PE",
+        "domains":["udch.edu.pe"],
+        "country": "Peru",
+        "state-province": null,
+        "web_pages": ["http://www.champagnat.edu.pe/"],
+        "name": "Universidad Marcelino Champagnat"
+    },
+    {
+        "alpha_two_code": "PE",
+        "domains":["utp.edu.pe"],
+        "country": "Peru",
+        "state-province": null,
+        "web_pages": ["http://www.utp.edu.pe/"],
+        "name": "Universidad Tecnol\u00f3gica del Peru"
+    },
+    {
+        "alpha_two_code": "PE",
+        "domains":["uwiener.edu.pe"],
+        "country": "Peru",
+        "state-province": null,
+        "web_pages": ["http://www.uwiener.edu.pe/"],
+        "name": "Universidad Nobert Wiener"
+    }
+]
